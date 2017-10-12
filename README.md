@@ -1,5 +1,5 @@
 === Plugin Name ===
-Plugin Name: Fsm Yakında Sayfası
+Plugin Name: Fsm Yakında Sayfasi
 Plugin URI: http://fsmtek.com
 Description: Bu Pluginle Wp de Yakında Sayaçlı Yakında Sayfası Oluşturabilirsiniz
 Author: Mehmet ÖZDEMiR
