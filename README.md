@@ -1,2 +1,3 @@
 # FsmTEK-YakindaWP
-Wordpress Site Sayaçlı Yakında Sayfası
+Bu Sistem FsmTEK.Com Bekletme Ekranı İçin Oluşturulmuştur.
+Wordpress Bekletme Doyası
